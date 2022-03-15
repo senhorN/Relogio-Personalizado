@@ -1,0 +1,11 @@
+C:\Users\nick6\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\nick6\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\nick6\source\repos\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.cache
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.pdb
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.forms.resources
+C:\Users\nick6\source\repos\Despertador\Despertador\obj\Debug\Despertador.frmSplash.resources
